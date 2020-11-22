@@ -38,9 +38,10 @@
 ## Business Activities:
 
 <br>
-Founder Jesse Powell recognized the importance of Bitcoin from the onset and understood “that the exchange is the most critical part of the cryptocurrency ecosystem.” Thus, Kraken is a cryptocurrency exchange that provides people the means to quickly and securely trade various cryptocurrencies. Participants are allowed to buy and sell cryptocurrency using various fiat currencies including the U.S dollar, Canadian dollars, euros, and the Japanese yen.
 
-The Kraken mission statement reads
+Founder Jesse Powell recognized the importance of Bitcoin from the onset and understood “that the exchange is the most critical part of the cryptocurrency ecosystem.” Thus, Kraken is a cryptocurrency exchange that provides people the means to quickly and securely trade various cryptocurrencies. Similar in function to a stock exchange, cryptocurrency exchanges facilitate the buying and selling of virtual currencies by retail as well as large investors and traders. Participants are allowed to buy and sell cryptocurrency using various fiat currencies including the U.S dollar, Canadian dollars, euros, and the Japanese yen.
+
+The Kraken mission statement reads:
 
 <br>
 
@@ -61,8 +62,11 @@ Competitors in the crypto space are many, but Kraken is the oldest and most expe
     + Vast majority of cryptocurrency funds are stored in secure offline cold storage wallets
     + Company and user funds segregated
     + Personal accounts secured using 2-factor authentication
+    + Has never been hacked
 
-* Good variety of trading features, margin trading, decent trading volume, fast exchange, futures trading, etc
+* Good variety of trading features
+
+* Supports margin trading, futures trading
 
 * Easy to transfer money between bank and Kraken
 
@@ -78,9 +82,6 @@ Competitors in the crypto space are many, but Kraken is the oldest and most expe
 ## Landscape:
 
 <br>
-Kraken is a US-based cryptocurrency exchange providing cryptocurrency to fiat trading for individual investors and institutions alike.
-<br><br>
-
 Ten years ago Bitcoin and cryptocurrency were considered to be on the fringe of the financial landscape with many suggesting Bitcoin was not a real asset and overly complicated. Further, the market was seen to be a bubble. However, as early adopters began to prove conventional wisdom wrong, cryptocurrency evolved into a huge, global market with hundreds of millions of accounts. This trend change was led by millennial investors with 18% owning cryptocurrency and 42% planning to buy Bitcoin in the next five years.
 <br><br>
 ![Kraken](images/cryptoUsers2.png)
@@ -93,7 +94,7 @@ The space is now highly competitive with many companies competing for users. Kra
 
 ## Results
 
-According to CoinMarketCap, Kraken is the 4th largest cryptocurrency exchange in the world (as of September 2020) and widely considered as the most sophisticated, reputable and secure by participants and observers of cryptocurrency markets.
+According to CoinMarketCap, Kraken is the 4th largest cryptocurrency exchange in the world (as of September 2020) and widely considered as the most sophisticated, reputable and secure by participants and observers of cryptocurrency markets. One important claim that few other exchanges can make - Kraken has never been hacked!
 
 Common metrics used to compare crypto exchanges include:
 * Volume (24h)
@@ -106,7 +107,10 @@ As can be seen in the following chart, Kraken tops all competitors in confidence
 <br><br> 
 ![Kraken](images/exchangeComparison.png)
 
-<br>
+<br><br>
+
+
+
 
 ## Recommendations
 
@@ -146,6 +150,8 @@ It appears the biggest obstacle to growth is the limited number of markets Krake
 * https://cdn.zabo.com/reports/Fintech_Adoption_of_Crypto_Zabo_July2020.pdf
 
 * https://coinpaprika.com/exchanges/kraken/
+
+* https://insidebitcoins.com/
 
 
 
