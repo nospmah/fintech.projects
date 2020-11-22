@@ -4,9 +4,8 @@
 
 <br>
 
-***
 ## Overview and Origin
-***
+
 <br>
 
 * Website: https://www.kraken.com/
@@ -36,9 +35,8 @@
 
 <br>
 
-***
 ## Business Activities:
-***
+
 <br>
 Founder Jesse Powell recognized the importance of Bitcoin from the onset and understood “that the exchange is the most critical part of the cryptocurrency ecosystem.” Thus, Kraken is a cryptocurrency exchange that provides people the means to quickly and securely trade various cryptocurrencies. Participants are allowed to buy and sell cryptocurrency using various fiat currencies including the U.S dollar, Canadian dollars, euros, and the Japanese yen.
 
@@ -76,9 +74,9 @@ Competitors in the crypto space are many, but Kraken is the oldest and most expe
 
 <br>
 
-***
+
 ## Landscape:
-***
+
 <br>
 Kraken is a US-based cryptocurrency exchange providing cryptocurrency to fiat trading for individual investors and institutions alike.
 <br><br>
@@ -93,40 +91,48 @@ The space is now highly competitive with many companies competing for users. Kra
 ![Kraken](images/cryptoExchanges.png)
 
 
-***
 ## Results
-***
 
 According to CoinMarketCap, Kraken is the 4th largest cryptocurrency exchange in the world (as of September 2020) and widely considered as the most sophisticated, reputable and secure by participants and observers of cryptocurrency markets.
 
-* Total volume: $559 636 946
-* ERV (estimated real volume): $532 127 992
-* 
-* Available altcoins: 43
-* Confidence score: 79.18%
-*Daily users
+Common metrics used to compare crypto exchanges include:
+* Volume (24h)
+* Markets
+* Confidence score
+* Available altcoins
 
+
+As can be seen in the following chart, Kraken tops all competitors in confidence with a score of 79.18%. However, volume is limited as compared to other leaders based on the number of markets supported.
+<br><br> 
+![Kraken](images/exchangeComparison.png)
 
 <br>
 
-***
 ## Recommendations
-***
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+It seems that one of the major drawbacks for users of the Kraken exchange is usabilty. 
 
-* Why do you think that offering this product or service would benefit the company?
+* Hire UX engineers and improve website usability. The cost for this improvement would be minimul and could allow Kraken to reach many novice users and increase adoption.
 
-* What technologies would this additional product or service utilize?
+* Add support for debit cards (Coinbase support this)
 
-* Why are these technologies appropriate for your solution?
+It appears the biggest obstacle to growth is the limited number of markets Kraken reaches. As compared to industry leader Binance (676 markets), Kraken only reaches 192 markets. 
 
 
 <br>
 
-***
+## Definitions
+
+* ERV (Estimated Real Volume) - estimate of genuine volume (24h) based on liquidity. Eliminates ~90% wash-trading activity and preserves legitimate volume. (https://coinpaprika.com/exchanges/)
+
+* Confidence - evaluates exchange based on (https://coinpaprika.com/exchanges/):
+    + liquidity (75% weight)
+    + Web Traffic (20% weight)
+    + Regulations (5% weight)
+
+
 ## References
-***
+
 * https://www.kraken.com/
 
 * https://en.wikipedia.org/wiki/Kraken_(company)#cite_note-3
@@ -142,23 +148,6 @@ According to CoinMarketCap, Kraken is the 4th largest cryptocurrency exchange in
 * https://coinpaprika.com/exchanges/kraken/
 
 
-
-
-
-
-
-
-<br>
-<br>
-<br>
-
-***
-## Working Notes
-
-How To Know the Date of Incorporation of a Company?
-https://www.upcounsel.com/how-to-know-the-date-of-incorporation-of-a-company
-
-To start a corporation, the founders must file articles of incorporation with the secretary of state
 
 
 
