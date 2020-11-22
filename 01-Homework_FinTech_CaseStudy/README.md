@@ -35,7 +35,7 @@
 
 <br>
 
-## Business Activities:
+## Business Activities
 
 <br>
 
@@ -79,7 +79,7 @@ Competitors in the crypto space are many, but Kraken is the oldest and most expe
 <br>
 
 
-## Landscape:
+## Landscape
 
 <br>
 
@@ -148,6 +148,8 @@ It appears the biggest obstacle to growth is the limited number of markets Krake
 <br>
 
 ## References
+
+<br>
 
 * https://www.kraken.com/
 
