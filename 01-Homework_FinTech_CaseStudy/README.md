@@ -10,7 +10,7 @@
 
 * Website: https://www.kraken.com/
 
-* Industry: emerging payments and digital currency industry, crypto and blockchain
+* Industry: crypto and blockchain
 
 * Founded July 28, 2011 by Jesse Powell
 
@@ -82,17 +82,24 @@ Competitors in the crypto space are many, but Kraken is the oldest and most expe
 ## Landscape:
 
 <br>
+
 Ten years ago Bitcoin and cryptocurrency were considered to be on the fringe of the financial landscape with many suggesting Bitcoin was not a real asset and overly complicated. Further, the market was seen to be a bubble. However, as early adopters began to prove conventional wisdom wrong, cryptocurrency evolved into a huge, global market with hundreds of millions of accounts. This trend change was led by millennial investors with 18% owning cryptocurrency and 42% planning to buy Bitcoin in the next five years.
 <br><br>
+
 ![Kraken](images/cryptoUsers2.png)
-<br><br>
+
+<br>
 
 The space is now highly competitive with many companies competing for users. Kraken consistently ranks in the top 10 by volume.
 <br><br>
+
 ![Kraken](images/cryptoExchanges.png)
 
+<br>
 
 ## Results
+
+<br>
 
 According to CoinMarketCap, Kraken is the 4th largest cryptocurrency exchange in the world (as of September 2020) and widely considered as the most sophisticated, reputable and secure by participants and observers of cryptocurrency markets. One important claim that few other exchanges can make - Kraken has never been hacked!
 
@@ -114,6 +121,8 @@ As can be seen in the following chart, Kraken tops all competitors in confidence
 
 ## Recommendations
 
+<br>
+
 It seems that one of the major drawbacks for users of the Kraken exchange is usabilty. 
 
 * Hire UX engineers and improve website usability. The cost for this improvement would be minimul and could allow Kraken to reach many novice users and increase adoption.
@@ -127,6 +136,8 @@ It appears the biggest obstacle to growth is the limited number of markets Krake
 
 ## Definitions
 
+<br>
+
 * ERV (Estimated Real Volume) - estimate of genuine volume (24h) based on liquidity. Eliminates ~90% wash-trading activity and preserves legitimate volume. (https://coinpaprika.com/exchanges/)
 
 * Confidence - evaluates exchange based on (https://coinpaprika.com/exchanges/):
@@ -134,6 +145,7 @@ It appears the biggest obstacle to growth is the limited number of markets Krake
     + Web Traffic (20% weight)
     + Regulations (5% weight)
 
+<br>
 
 ## References
 
