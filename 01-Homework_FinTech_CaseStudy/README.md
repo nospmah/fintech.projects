@@ -114,10 +114,20 @@ As can be seen in the following chart, Kraken tops all competitors in confidence
 <br><br> 
 ![Kraken](images/exchangeComparison.png)
 
+<br>
+
+**In the news**
+
+In September 2020 Kraken became the first digital asset company to receive a U.S. bank charter recognized under state and federal law. Through the charter, Wyoming will allow Kraken to form the world’s first Special Purpose Depository Institution (SPDI) named ‘Kraken Financial’, which will be regulated like any other bank. This means that customers of Kraken Financial will have traditional banking services for both fiat and digital assets including:
+* Payment of bills in crypto
+* Receiving salaries in crypto
+* Adding digital assets to their investment and trading portfolios<br><br>
+
+Speaking to Forbes, Chief Legal Officer at Kraken Marco Santori, said this:
+
+> "I think it is difficult to state the over-importance of this milestone. I think this is a specific development in the course of crypto affairs. This represents the development of an efficient, transparent, responsible nexus between the world of traditional finance and the developing crypto ecosystem. I think this is a historical time and the kind of thing that students of finance and history will look back on as a watershed moment for the development of financial assets"
+
 <br><br>
-
-
-
 
 ## Recommendations
 
@@ -131,8 +141,7 @@ It seems that one of the major drawbacks for users of the Kraken exchange is usa
 
 It appears the biggest obstacle to growth is the limited number of markets Kraken reaches. As compared to industry leader Binance (676 markets), Kraken only reaches 192 markets. 
 
-
-<br>
+<br><br>
 
 ## Definitions
 
@@ -167,6 +176,9 @@ It appears the biggest obstacle to growth is the limited number of markets Krake
 
 * https://insidebitcoins.com/
 
+* https://www.forbes.com/sites/jasonbrett/2020/09/16/cracking-landlocked-wyoming-kraken-wins-first-crypto-bank-charter-in-us-history
+
+* https://www.nasdaq.com/articles/kraken-crypto-exchange-receives-unique-charter-to-operate-as-a-bank-2020-09-21
 
 
 
