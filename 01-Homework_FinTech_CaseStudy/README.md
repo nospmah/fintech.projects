@@ -10,7 +10,7 @@
 
 * Website: https://www.kraken.com/
 
-* Industry: crypto and blockchain
+* Industry: crypto, blockchain, finance
 
 * Founded July 28, 2011 by Jesse Powell
 
